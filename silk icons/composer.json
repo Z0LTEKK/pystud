@@ -1,0 +1,33 @@
+{
+  "name": "legacy-icons/famfamfam-silk",
+  "homepage": "https://github.com/legacy-icons/famfamfam-silk",
+  "description": "FamFamFam Silk icon pack, as individual icons or as a CSS spritesheet",
+  "keywords": [
+    "icon",
+    "silk",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "CC-BY-2.5",
+    "authors": [
+    {
+      "name": "t1st3",
+      "email": "contact@tiste.org",
+      "homepage": "http://www.tiste.org/",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/legacy-icons/famfamfam-silk/issues/"
+  },
+  "type": "library",
+  "extra": {
+    "component": {
+      "files": [
+        "dist/*"
+      ]
+    }
+  }
+}
